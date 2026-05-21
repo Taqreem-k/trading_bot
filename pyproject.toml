@@ -7,5 +7,6 @@ requires-python = ">=3.13"
 dependencies = [
     "python-binance>=1.0.36",
     "python-dotenv>=1.2.2",
+    "streamlit>=1.57.0",
     "typer>=0.25.1",
 ]

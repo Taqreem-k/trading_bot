@@ -58,10 +58,10 @@ def trade(
         typer.secho(f"\n❌ EXECUTION FAILED: {str(e)}", fg=typer.colors.RED, bold=True)
         typer.echo("Check trading.log for full technical details.\n")
 
-if __name__ == "__main__":
-    app()
-
 @app.command()
 def cancel():
     """Placeholder for canceling orders later."""
     typer.echo("Cancel command coming soon.")
+
+if __name__ == "__main__":
+    app()
