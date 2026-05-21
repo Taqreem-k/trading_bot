@@ -1,0 +1,20 @@
+2026-05-20 18:02:21 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-20 18:02:21 | INFO     | Attempting MARKET order: BUY 0.005 BTCUSDT
+2026-05-20 18:02:22 | ERROR    | Binance API Error during MARKET order: API-key format invalid.
+2026-05-20 18:07:55 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-20 18:07:55 | INFO     | Attempting MARKET order: BUY 0.005 BTCUSDT
+2026-05-20 18:07:57 | INFO     | MARKET order successful! OrderID: 13167813192 | Status: NEW
+2026-05-20 18:14:45 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-20 18:14:45 | INFO     | Attempting MARKET order: BUY 0.005 BTCUSDT
+2026-05-20 18:14:47 | INFO     | MARKET order successful! OrderID: 13167835086 | Status: NEW
+2026-05-20 18:21:16 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-20 18:21:31 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-20 18:21:31 | INFO     | Attempting MARKET order: BUY 0.09 BTCUSDT
+2026-05-20 18:21:32 | INFO     | MARKET order successful! OrderID: 13167858969 | Status: NEW
+2026-05-20 18:23:29 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-21 17:52:36 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-21 17:52:36 | INFO     | Attempting MARKET order: BUY 0.005 BTCUSDT
+2026-05-21 17:52:36 | INFO     | MARKET order successful! OrderID: 13172169439 | Status: NEW
+2026-05-21 17:52:47 | INFO     | BinanceFuturesClient initialized successfully on Testnet.
+2026-05-21 17:52:47 | INFO     | Attempting LIMIT order: BUY 0.005 BTCUSDT @ 35000.0
+2026-05-21 17:52:48 | INFO     | LIMIT order successful! OrderID: 13172170055 | Status: NEW
